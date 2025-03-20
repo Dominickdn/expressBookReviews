@@ -1,4 +1,5 @@
 # Distribution / packaging
 node_modules
-
+# used cookies for saving webtoken using curl
+cookies.txt
 
